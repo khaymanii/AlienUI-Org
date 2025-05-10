@@ -26,7 +26,6 @@ function Header() {
             <a href="https://github.com/AlienUI-Org">
               <FaGithub className="lg:text-2xl text-xl" />
             </a>
-            <span className="font-medium text-base"></span>
           </div>
 
           {/* Hamburger Menu (optional, if you want to toggle mobile menu later) */}
