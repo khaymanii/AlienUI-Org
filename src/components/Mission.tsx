@@ -4,9 +4,16 @@ function Mission() {
       <div className="mb-16">
         <h1 className="text-3xl font-semibold">The Mission</h1>
         <p className="mt-4">
-          To empower developers with accessible, open-source tools that simplify
-          UI development across web and mobile, enabling faster, cleaner, and
-          more scalable front-end workflows.
+          The mission at AlienUI Org is to empower developers by creating
+          accessible, open-source tools that streamline and simplify UI
+          development across both web and mobile platforms. We aim to eliminate
+          the complexity that often comes with front-end workflows by offering
+          intuitive, well-documented, and flexible solutions that integrate
+          seamlessly into modern development environments. Whether you're
+          building with React, React Native, or using tools like Tailwind CSS or
+          NativeWind, our goal is to reduce the overhead of design
+          implementation and help developers focus on building great user
+          experiences.
         </p>
       </div>
     </div>

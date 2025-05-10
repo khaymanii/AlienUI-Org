@@ -6,7 +6,7 @@ import { GoMail } from "react-icons/go";
 
 function Footer() {
   return (
-    <footer className="bg-black text-white py-16">
+    <footer className="bg-purple-800 text-white py-16">
       <div className="max-w-7xl mx-auto px-6">
         <div className="flex flex-col sm:flex-row justify-between items-center">
           <div className="text-center sm:text-left mb-6 sm:mb-0">
